@@ -14,7 +14,7 @@ our %a_Severity;
 use Cwd;
 use warnings;
 use strict;
-use Monitoring::Functions;
+use lib::Monitoring;
 
 # Global variables
 out $TRUE = 1;
