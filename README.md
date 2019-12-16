@@ -1,4 +1,4 @@
 FMP
 ===
 
-Free Monitorring Plugins
+Free Monitoring Plugins
